@@ -67,7 +67,7 @@
 }
 
 .story__item--1 {
-    background: url(images/nier.png) !important;
+    background: url(https://github.com/celialewis3/portfolio-1/blob/master/images/nier.png);
     background-size: cover;
     grid-column: 1 / 5;
     grid-row: 1 / 3;
@@ -75,21 +75,21 @@
 
 
 .story__item--2 {
-    background: url(images/umu.png);
+    background: url(https://github.com/celialewis3/portfolio-1/blob/master/images/umu.png);
     background-size: cover;
     grid-column: 1 / 3;
     grid-row: 3 / 5;
 }
 
 .story__item--3 {
-    background: url(images/shorthike.jpg);
+    background: url(https://github.com/celialewis3/portfolio-1/blob/master/images/shorthike.jpg);
     background-size: cover;
     grid-column: 3 / 5;
     grid-row: 3 / 5;
 }
 
 .story__item--4 {
-    background: url(images/academy.png);
+    background: url(https://github.com/celialewis3/portfolio-1/blob/master/images/academy.png);
     background-size: cover;
     grid-column: 1 / 5;
     grid-row: 5 / 7;
@@ -111,6 +111,12 @@ li {
 a {
     color: white;
     text-decoration: none;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: white
 }
 
 
