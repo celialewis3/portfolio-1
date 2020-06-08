@@ -5,8 +5,8 @@ This is a simple portfolio website using mainly HTML/CSS.
 Features:
 - Uses Grid CSS
 - Image board layout for stories
+- Hover text on images
 
 To-dos:
-- ✅Make hover text for images 
-- ✅Links for images 
 - Multiple pages, about, etc.
+- Animation effects
