@@ -7,6 +7,6 @@ Features:
 - Image board layout for stories
 
 To-dos:
-- Make hover text for images
-- Links for images
+- Make hover text for images ✅
+- Links for images ✅
 - Multiple pages, about, etc.
